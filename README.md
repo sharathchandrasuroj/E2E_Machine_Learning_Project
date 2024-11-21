@@ -14,7 +14,7 @@
 9. update the app.py
 
 # How to run?
-### STEPS:
+### STEPS::
 
 
 ```bash
